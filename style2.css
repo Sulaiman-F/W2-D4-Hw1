@@ -1,0 +1,106 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-color: #222831;
+    color: #EEEEEE;
+}
+
+h2 {
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    background-color: #222831;
+    border-radius: 1%;
+    margin: 1% 0%;
+}
+
+nav a {
+    padding: 2%;
+    text-decoration: none;
+    color: #EEEEEE;
+}
+
+div {
+    text-align: center;
+    background-color: #25424a;
+    margin: 1% 35%;
+    padding: 1% 0%;
+    border-radius: 2%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+div p {
+    text-align: center;
+    margin: 1% 15%;
+
+}
+
+img {
+    height: 20vh;
+    width: 20vh;
+    border-radius: 2%;
+
+}
+
+table {
+    background-color: #25424a;
+    color: #EEEEEE;
+    border: 1px solid black;
+    margin: 1% 10%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+}
+
+table td {
+    border: 1px solid black;
+    text-align: left;
+    padding: 2%;
+
+}
+
+.table-head {
+    background-color: #233459;
+}
+
+footer {
+    margin: 1% 10%;
+
+
+}
+
+footer ol {
+    margin: 2% 0%;
+    margin-left: 5%;
+}
+
+footer a {
+    text-decoration: none;
+    color: #EEEEEE;
+}
+
+form {
+    background-color: #25424a;
+    margin: 1% 20%;
+    padding: 1%;
+    border-radius: 1%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+form ul li {
+    list-style: none;
+    padding: 1% 0%;
+}
+
+button {
+    padding: 1% 2%;
+    background-color: #3a808c;
+    color: #EEEEEE;
+
+}

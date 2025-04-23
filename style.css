@@ -1,0 +1,56 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-image: url(/imgs/sea.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+nav {
+    text-align: center;
+    color: #EEEEEE;
+    background-color: #222831;
+    border-radius: 1%;
+    padding: 1%;
+    margin-bottom: 2%;
+
+}
+
+nav a {
+    padding: 2%;
+    text-decoration: none;
+    color: #EEEEEE;
+}
+
+.home-page ul {
+    background-color: #222831;
+    list-style: none;
+    margin: 0% 20%;
+    border-radius: 2%;
+    text-align: center;
+    color: #EEEEEE;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.home-page ul li ul {
+    background-color: #25424a;
+
+}
+
+.home-page ul li {
+    padding: 1% 0%;
+}
+
+.home-page ul p {
+    margin: 0% 20%;
+}
+
+iframe {
+    border-radius: 2%;
+}
