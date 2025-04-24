@@ -17,6 +17,13 @@ nav {
     background-color: #222831;
     border-radius: 1%;
     margin: 1% 0%;
+    padding: 1%;
+
+    position: sticky;
+    top: 0;
+    overflow: hidden;
+    font-size: larger;
+
 }
 
 nav a {

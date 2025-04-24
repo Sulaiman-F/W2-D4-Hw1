@@ -18,7 +18,10 @@ nav {
     border-radius: 1%;
     padding: 1%;
     margin-bottom: 2%;
-
+    position: sticky;
+    top: 0;
+    overflow: hidden;
+    font-size: larger;
 }
 
 nav a {
